@@ -8,6 +8,7 @@ use muqsit\invmenu\InvMenuHandler;
 use pocketmine\plugin\PluginBase;
 
 class Loader extends PluginBase {
+class muqsit\invmenu\InvMenuHandler {
 
     /** @var self */
     private static $instance;
